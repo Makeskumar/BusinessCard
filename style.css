@@ -101,7 +101,7 @@ a{
     margin-bottom: -8px;
 }
 #nav li{
-    margin-left: 150px;
+    margin-left: 100px;
 }
 @media all and (max-width: 600px){
     small{
