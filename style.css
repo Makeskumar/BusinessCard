@@ -1,0 +1,141 @@
+#profile{
+    margin-top: -55px;
+    margin-left: 10px;
+    border: 5px solid white;
+}
+#card{
+    margin-left:10px;
+    margin-top: -55px;
+}
+.subtitle{
+    font-size: 22px;
+    font-weight: 500;
+}
+.partner{
+
+    font-size: 14px;
+    font-weight: 500;
+    background-color: pink;
+    width:150px;
+    border-radius: 5px;
+}
+.partner:hover{
+    background-color:rgb(199, 209, 219);
+}
+body{
+    font-size: 20px;
+    font-weight: 500;
+    background-color: pink;
+}
+.icon{
+    background-color:#031931;
+    margin-left: 30px; 
+    padding: 8px;
+    color: #e0d173;
+    border-radius: 50%;
+}
+.btn:hover{
+    background-color:#e0d173 ;
+    color: black;
+}
+.btn{
+background-color: #031931;
+color: white;
+}
+.icon:hover{
+    background-color: #e4d173;
+    color:#031931;
+}
+.icons{
+    font-size: 20px;
+
+}
+ 
+/*#28547E */
+
+
+a{
+    text-decoration: none;
+    color: black;
+}
+#mutted{
+    font-weight: 100;
+
+}
+.details:hover {
+    text-decoration: none;
+    color: #0096FF;
+}
+
+#button1:hover{
+   background-color: gray;
+   color: black;
+}
+.outsideborder{
+    background-color: #28547E;
+}
+.horizontal{
+    border-bottom: 3px solid #28547E;
+    border-radius: 5px;
+    margin-top: -8px;
+    width: 110px;
+    
+    }
+.horizontal1{
+        border-bottom: 3px solid #28547E;
+        border-radius: 5px;
+        margin-top: -8px;
+        width: 175px;
+}
+#user , #user1 {
+    background-color:gray ;
+   
+}
+#user1:hover
+{
+    background-color: white;
+}
+
+
+#nav{
+    margin-bottom: -8px;
+}
+#nav li{
+    margin-left: 150px;
+}
+@media all and (max-width: 600px){
+    small{
+        font-size: 11px;
+    }
+    h3{
+        font-size: 15px;
+    }
+    .horizontal{
+        width: 50px;
+        
+    }
+    .horizontal1{
+        width: 90px;
+        
+    }
+    .subtitle{
+        font-size: 15px;
+        margin-bottom: 6px;
+    }
+    p{
+        font-size: 13px;
+    }
+ .icontext{
+    font-size: 16px;
+ }
+ blockquote{
+    font-size: 15px;
+ }
+
+ .icon{
+ font-size: 15px;
+ padding: 2px;
+ 
+}
+  }
+
